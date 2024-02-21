@@ -4,9 +4,9 @@ title: Про проєкт Voron
 nav_order: 2
 ---
 
-# About Voron
+# Про проєкт Voron
 
-The original goal of the VORON project, back in 2015, was to create a no-compromise 3D printer that was fun to assemble and a joy to use. It had to be quiet, clean, pretty, and continue to operate 24 hours a day without requiring constant fiddling. In short a true home micro-manufacturing machine without a hefty price tag. It took over a year in development, with every part being redesigned, stress tested and optimized. Shortly after the release a vibrant community formed around the project and continues to grow today. This community is part of what makes VORON such a special experience.
+Початкова мета проєкту VORON у 2015 році – створити безкомпромісний 3D-принтер, який було б цікаво збирати та користуватися з радістю. Він повинен бути тихим, чистим, красивим та працювати 24 години на добу без постійного колупання у ньому. Якщо коротко, то це повинна була б бути домашня мікро-мануфактурна машина не за космічну ціну. Розробка зайняла більше року, кожну деталь перепроєктовано, відестовано та оптимізовано. Незабаром після релізу, навколо проєкту сформувалась жива спільнота, яка продовжує рости і сьогодні. Ця спільнота є частиною того, що робить VORON таким крутим досвідом.
 
 What was once a one-person operation has grown into a small tight-knit group of engineers united under a common design ethos. We're dedicated to creating production-quality printers you can assemble in your kitchen. It's this passion and dedication that drive us to push the boundaries just a little further. We build space shuttles with gardening tools so anyone can have a space shuttle of their own.
 
